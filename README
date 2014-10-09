@@ -1,0 +1,28 @@
+Name: Ben Green
+Email: beg@clemson.edu
+Date: 7/30/2014
+
+Proj No: 7, Final Project Deliverable
+
+
+Description:
+This submission includes.
+-A menu system with input boxes using only pygame
+-Sprites for the player, 2 obstacles, and backgrounds
+-A Manager class to control what is shown on screen
+-A Gamemanager class to control gameplay
+-Controllable player
+-Enemies
+-Shooting (with bullet pooling)
+-Factory for sprites surfaces (even though a static variable would have been easier)
+-Parallax scrolling
+-Player collision
+-An end
+
+Extras that I would like to do if I the have time and intestinal
+fortitude:
+-Editable controls
+-All constants read from XML
+-Original music
+-Better/more variations of enemy movement
+-Game Over screen

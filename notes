@@ -1,0 +1,50 @@
+README file
+
+===
+
+Author: Ben Green (beg@clemson.edu)
+
+===
+
+Notes:
+* The only infinite loop in the entire program is in the Manager class.
+   It uses a dictionary to control what is shown on screen (which menu or the game)
+   Because of this, the only call in the infinite loop is:
+---- self.views[self.curr_view].display()
+   Therefore, any class that is called directly from the Manager class must have a:
+---- def display(self):
+   function
+
+===
+
+Class diagram:
+	main<------manager
+	           ^  ^  ^
+	           |  |  +-----+
+	         menu |     gamemanager
+	         ^    |      ^     ^  ^
+	         | inputbox  |     |  |
+	         |           |     | obstacle--->factory
+	      menuitem      player |               ^
+                                 bullet------------+
+
+Need work:
+-gamemanager (needs to read from xml)
+-player (needs to read from xml)
+-factory
+
+===
+
+Credit where credit is due:
+* The menu, menuitem, and a chunk of the manager class were adapted from these tutorials:
+	http://nebelprog.wordpress.com/2013/08/14/create-a-simple-game-menu-with-pygame-pt-1-writing-the-menu-options-to-the-screen/
+
+* The inputbox was adapted from code written by Timothy Dawn
+	http://www.pygame.org/pcr/inputbox/
+
+* The player, obstacle, and gamemanager classes were adapted from, and the helpers and
+   explosion classes were written by Dr. Brian Malloy
+	brianmalloy.com
+
+* The parallax.py file was written by forslund:
+	https://github.com/forslund/pyParallax

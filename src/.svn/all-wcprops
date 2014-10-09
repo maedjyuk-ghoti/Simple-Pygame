@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/BEG_cpsc372_sum14/!svn/ver/29/Core/src
+END
+inputbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/BEG_cpsc372_sum14/!svn/ver/28/Core/src/inputbox.py
+END
+mine.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/BEG_cpsc372_sum14/!svn/ver/29/Core/src/mine.py
+END
+manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/BEG_cpsc372_sum14/!svn/ver/28/Core/src/manager.py
+END
+player.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/BEG_cpsc372_sum14/!svn/ver/29/Core/src/player.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/BEG_cpsc372_sum14/!svn/ver/1/Core/src/__init__.py
+END
+explosion.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/BEG_cpsc372_sum14/!svn/ver/29/Core/src/explosion.py
+END
+helpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/BEG_cpsc372_sum14/!svn/ver/28/Core/src/helpers.py
+END
+menuitem.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/BEG_cpsc372_sum14/!svn/ver/11/Core/src/menuitem.py
+END
+gamemanager.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/BEG_cpsc372_sum14/!svn/ver/29/Core/src/gamemanager.py
+END
+menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/BEG_cpsc372_sum14/!svn/ver/19/Core/src/menu.py
+END
+parallax.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/BEG_cpsc372_sum14/!svn/ver/25/Core/src/parallax.py
+END
+bullet.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/BEG_cpsc372_sum14/!svn/ver/24/Core/src/bullet.py
+END
+factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/BEG_cpsc372_sum14/!svn/ver/26/Core/src/factory.py
+END
